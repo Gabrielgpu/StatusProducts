@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\cursoC#\ProjetoIntermediario\exercicios 6\bin\Debug\net8.0\exercicios 6.exe
+C:\Users\gabri\Documents\cursoC#\ProjetoIntermediario\exercicios 6\bin\Debug\net8.0\exercicios 6.deps.json
+C:\Users\gabri\Documents\cursoC#\ProjetoIntermediario\exercicios 6\bin\Debug\net8.0\exercicios 6.runtimeconfig.json
+C:\Users\gabri\Documents\cursoC#\ProjetoIntermediario\exercicios 6\bin\Debug\net8.0\exercicios 6.dll
+C:\Users\gabri\Documents\cursoC#\ProjetoIntermediario\exercicios 6\bin\Debug\net8.0\exercicios 6.pdb
+C:\Users\gabri\Documents\cursoC#\ProjetoIntermediario\exercicios 6\obj\Debug\net8.0\exercicios 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\cursoC#\ProjetoIntermediario\exercicios 6\obj\Debug\net8.0\exercicios 6.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\cursoC#\ProjetoIntermediario\exercicios 6\obj\Debug\net8.0\exercicios 6.AssemblyInfo.cs
+C:\Users\gabri\Documents\cursoC#\ProjetoIntermediario\exercicios 6\obj\Debug\net8.0\exercicios 6.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\cursoC#\ProjetoIntermediario\exercicios 6\obj\Debug\net8.0\exercicios 6.dll
+C:\Users\gabri\Documents\cursoC#\ProjetoIntermediario\exercicios 6\obj\Debug\net8.0\refint\exercicios 6.dll
+C:\Users\gabri\Documents\cursoC#\ProjetoIntermediario\exercicios 6\obj\Debug\net8.0\exercicios 6.pdb
+C:\Users\gabri\Documents\cursoC#\ProjetoIntermediario\exercicios 6\obj\Debug\net8.0\exercicios 6.genruntimeconfig.cache
+C:\Users\gabri\Documents\cursoC#\ProjetoIntermediario\exercicios 6\obj\Debug\net8.0\ref\exercicios 6.dll
